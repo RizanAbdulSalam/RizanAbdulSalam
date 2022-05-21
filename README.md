@@ -13,8 +13,8 @@
 - 🤍Love to Build Webs and Apps..  
   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizanAbdulSalam
-&hide_border=true&layout=compact" align="center" /></div>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizanAbdulSalam)
+ 
 
 <br/>  
 
