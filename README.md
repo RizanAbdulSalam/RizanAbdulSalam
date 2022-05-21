@@ -1,16 +1,47 @@
-### Hi there 👋
+### HELLO WORLD...IT'S ME RIZANABDULSALAM!
+  
 
-<!--
-**RizanAbdulSalam/RizanAbdulSalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!🎃</div>  
+  
 
-Here are some ideas to get you started:
+- 💼Studying in Grade 11...Also Learning Programming Languages and more..  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨Currently on Building an E-Bike..  
+  
+
+- 🤍Love to Build Webs and Apps..  
+  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizanAbdulSalam
+&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
+## Connect with me  
+<a href="https://twitter.com/rizanabdulsalam" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/RizanAbdulSalam" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/rizan_abdul_salam_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RizanAbdulSalam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=RizanAbdulSalam&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
