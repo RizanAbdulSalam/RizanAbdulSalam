@@ -57,4 +57,6 @@
 
 
 <br>
-<a href="mailto:rizanabdulsalam@gmail.com">rizanabdulsalam@gmail.com</a>
+<div align="center">
+<a href="mailto:rizanabdulsalam@gmail.com">rizanabdulsalam@gmail.com</a>/<a href="https://twitter.com/rizanabdulsalam">rizanabdulsalam</a>
+</div>
