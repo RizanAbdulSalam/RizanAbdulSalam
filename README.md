@@ -15,14 +15,18 @@
 
 - 🖼️NFT is newest thing I learned and it's Awesome..
   
-
+  
+  Currently I have only learned these Front-End Languages...and will be learning many other languages too..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizanAbdulSalam)
- 
+
 
 <br/>  
 
 
 ## Connect with me  
+ 
+ I will using Socials...Give me a DM on any of the socials given below...Twitter is my suggestion for DM-ing..
+
 <a href="https://twitter.com/rizanabdulsalam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -38,7 +42,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RizanAbdulSalam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+  Currently I have only learned these Front-End Languages...and will be learning many other languages too..
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=RizanAbdulSalam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -48,3 +55,6 @@
 
 <br />
 
+
+<br>
+<a href="mailto:rizanabdulsalam@gmail.com">rizanabdulsalam@gmail.com</a>
