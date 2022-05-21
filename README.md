@@ -1,7 +1,7 @@
-### HELLO WORLD...IT'S ME RIZANABDULSALAM!
+## HELLO WORLD...IT'S ME RIZANABDULSALAM!
   
 
-### <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!</div>  
+ <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!</div>  
   
 
 - 💼Studying in Grade 11...Also Learning Programming Languages and more..  
@@ -15,8 +15,11 @@
 
 - 🖼️NFT is newest thing I learned and it's Awesome..
   
-  
+ ## My Skills 
   Currently I have only learned these Front-End Languages...and will be learning many other languages too..
+  
+  <br>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizanAbdulSalam)
 
 
