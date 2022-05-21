@@ -1,7 +1,7 @@
 ### HELLO WORLD...IT'S ME RIZANABDULSALAM!
   
 
-### <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!🎃</div>  
+### <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!</div>  
   
 
 - 💼Studying in Grade 11...Also Learning Programming Languages and more..  
