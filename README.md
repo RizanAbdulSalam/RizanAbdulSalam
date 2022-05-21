@@ -10,7 +10,10 @@
 - ✨Currently on Building an E-Bike..  
   
 
-- 🤍Love to Build Webs and Apps..  
+- 🤍Love to Build Webs and Apps..
+
+
+- 🖼️NFT is newest thing I learned and it's Awesome..
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizanAbdulSalam)
