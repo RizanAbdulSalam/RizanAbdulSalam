@@ -14,6 +14,8 @@
 
 
 - 🖼️NFT is newest thing I learned and it's Awesome..
+
+- 🎯CEO of <a href="https://instagram/spark_automative__">Spark Automative</a> ..
   
  ## My Skills 
   Currently I have only learned these Front-End Languages...and will be learning many other languages too..
