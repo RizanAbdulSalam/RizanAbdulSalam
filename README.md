@@ -13,7 +13,7 @@
 - 🤍Love to Build Webs and Apps..
 
 
-- 🖼️NFT is newest thing I learned and it's Awesome..
+- 🖼️NFT. The New Thing.
 
 
 - 🎯CEO of <a href="https://instagram.com/spark_automative__">Spark Automative</a> ..
