@@ -22,6 +22,8 @@
 - 🎃"Build Innovative Things"..
 
 
+-📈Stocks
+
   
  ## My Skills 
   Currently I have only learned these Front-End Languages...and will be learning many other languages too..
