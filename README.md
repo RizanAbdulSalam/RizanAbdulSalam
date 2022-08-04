@@ -26,7 +26,7 @@
 
   
  ## My Skills 
-  Currently I have only learned these Front-End Languages...and will be learning many other languages too..
+   I have learned  Front-End Languages...and will be learning many other languages too..
   
   <br>
   
