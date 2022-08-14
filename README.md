@@ -26,7 +26,7 @@
 
   
  ## My Skills 
-   I have learned  Front-End Languages...and will be learning many other languages too..
+   Front-end Languages such as HTML,CSS,JS and in Back-End Basic C++
   
   <br>
   
