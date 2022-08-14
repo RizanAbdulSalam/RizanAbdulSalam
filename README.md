@@ -26,7 +26,7 @@
 
   
  ## My Skills 
-   Front-end Languages such as HTML,CSS,JS and in Back-End Basic C++
+   Front-End Languages such as HTML,CSS,JS and in Back-End Basic C++
   
   <br>
   
