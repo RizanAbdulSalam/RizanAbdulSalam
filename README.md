@@ -1,4 +1,4 @@
-## HELLO WORLD...IT'S ME RIZANABDULSALAM!
+## HELLO WORLD...IT'S ME RIZAN ABDUL SALAM!
   
 
  <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!</div>  
