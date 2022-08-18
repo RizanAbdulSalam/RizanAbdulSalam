@@ -22,7 +22,7 @@
 - 🎃"Build Innovative Things"..
 
 
-- 📈Stocks
+- 📈Stocks..
 
   
  ## My Skills 
