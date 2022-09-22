@@ -7,7 +7,7 @@
 - 💼Studying in +1...also Learning Programming Languages and more  
   
 
-- ✨Currently Building an E-Bike..  
+- ✨Working on E-Bike..  
   
 
 - 🤍Love to Build Webs and Apps..
