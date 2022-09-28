@@ -4,7 +4,7 @@
  <div align="left">I am RizanAbdulSalam...16yrs old...Am a software developer who is really into the tech world!</div>  
   
 
-- 💼Studying in +1...also Learning Programming Languages and more  
+- 💼+1 Student... & Learning Programming Langauges..  
   
 
 - ✨Working on E-Bike..  
@@ -13,7 +13,7 @@
 - 🤍Love to Build Webs and Apps..
 
 
-- 🖼️NFT•The New Thing..
+- 🖼️NFT..
 
 
 - 🎯CEO of <a href="https://instagram.com/spark_automative__">Spark Automative</a> ..
