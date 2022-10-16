@@ -16,9 +16,6 @@
 - 🖼️NFT..
 
 
-- 🎯CEO of <a href="https://instagram.com/spark_automative__">Spark Automative</a> ..
-
-
 - 🎃"Build Innovative Things"..
 
 
