@@ -1,7 +1,7 @@
 ## HELLO WORLD...AM RIZAN ABDUL SALAM!
   
 
- <div align="left">I am RizanAbdulSalam...16yrs old...Loitering around the tech world☺️...It is nice here too(the tech world)</div>  
+ <div align="left">I am RizanAbdulSalam...16yrs old...Loitering around the tech world☺️...</div>  
   
 
 - 💼+1 Student... & Learning Programming Langauges..  
