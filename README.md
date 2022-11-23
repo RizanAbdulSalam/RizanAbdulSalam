@@ -55,7 +55,7 @@ Using socials...Giving the links below...
 
 ## Github Stats  
 
-  Currently I have only learned these Front-End Languages...and will be learning many other languages too..
+  
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=RizanAbdulSalam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
