@@ -23,7 +23,7 @@
 
   
  ## My Skills 
-   Front-End Languages such as HTML,CSS,JS and in Back-End Basic C++ and Python
+   
   
   <br>
   
