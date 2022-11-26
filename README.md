@@ -53,21 +53,6 @@ Using socials...Giving the links below...
 <br/>  
 
 
-## Github Stats  
-
-  
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=RizanAbdulSalam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RizanAbdulSalam&&style=flat-square" align="center" />
-</div>  
-  
-<br />
-
-
 <br>
 <div align="center">
 <a href="mailto:rizanabdulsalam@gmail.com">rizanabdulsalam@gmail.com</a>/<a href="https://twitter.com/rizanabdulsalam">rizanabdulsalam</a>
