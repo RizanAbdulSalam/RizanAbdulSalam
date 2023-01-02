@@ -4,7 +4,7 @@
  <div align="left">I am RizanAbdulSalam...16yrs old...Loitering around the tech world...</div>  
   
 
-- 💼+1 Student... & Learning Programming Langauges.. 
+- 💼+1 Student.. 
   
 
 - ✨Working on E-Bike..  
