@@ -1,9 +1,9 @@
 ## HELLO WORLD...AM RIZAN ABDUL SALAM!
   
 
- <div align="left">I am RizanAbdulSalam...16yrs old...Loitering around the tech world...</div>  
+ <div align="left">I am RizanAbdulSalam...17yrs old...Loitering around the tech world...</div>  
   
-
+  <br>
 Hi there! My name is Rizan Abdul Salam, and I am a +1 student, currently working on a project called "Project E-Bike." LOve to build webs and apps, and am always looking for ways to improve my skills in this area. In my free time, I enjoy learning about NFTs and stocks, and finding ways to apply them to my work. I am also always looking for opportunities to build innovative things and find creative solutions to problems. Overall, I am excited to continue learning and growing as a student and developer.
 
   
