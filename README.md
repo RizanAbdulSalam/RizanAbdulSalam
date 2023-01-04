@@ -20,7 +20,7 @@ Hi there! My name is Rizan Abdul Salam, and I am a +1 student, currently working
 
 ## Connect with me  
  
-Using socials...Giving the links below...
+Follow up!
 
 <a href="https://twitter.com/rizanabdulsalam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
