@@ -1,4 +1,4 @@
-## HELLO WORLD🌏
+## HELLO WORLD...👋🏽
   
 
  <div align="left">Loitering around the tech world😅</div>  
