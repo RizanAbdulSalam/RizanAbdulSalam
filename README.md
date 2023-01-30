@@ -29,5 +29,5 @@ Follow up!!!
 
 <br>
 <div align="center">
-<a href="mailto:rizxn2@gmail.com">rizxn2@gmail.com</a>/<a href="https://twitter.com/rizanabdulsalam">rizanabdulsalam</a>
+<a href="mailto:rizxn2@gmail.com">rizxn2@gmail.com</a>/<a href="https://twitter.com/rizanabdulsalam">Rizan Abdul Salam</a>
 </div>
