@@ -7,7 +7,7 @@ Hi there! My name is Rizan Abdul Salam, and I am a +1 student, currently working
 
 
 ## Connect with me🙃...
- 
+
 Follow up on socials!!    
 
 <a href="https://twitter.com/rizanabdulsalam" target="_blank">
