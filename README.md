@@ -22,7 +22,6 @@ Follow up on socials
   
 <br/>  
 
-
 <br>
 <div align="center">
 <a href="mailto:rizxn2@gmail.com">rizxn2@gmail.com</a>/<a href="https://rizanabdulsalam.github.io/MyWebsite/index.html">Rizan Abdul Salam</a>
