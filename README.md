@@ -1,7 +1,7 @@
 ## HELLO WORLD!!!
  
  <div align="left">Loitering around the tech world👨🏽‍💻</div>   
- <br> 
+ <br>  
  
 Hey there! My name is Rizan Abdul Salam, and I am a +2 student. Love to build webs and apps, and am always looking for ways to improve my skills in programming and designing. In my free time, I enjoy learning about stocks, and finding ways to apply them to my work. I am also always looking for opportunities to build innovative things and find creative solutions to problems. Overall, I am excited to continue learning and growing as a student and developer✌🏽.
 
